@@ -1,5 +1,6 @@
 ![](http://theta360.guide//blog/img/2016-09/aframe-mobile.png)
 
+This demo and information were built immediately after Kieran Farr gave a presentation on A-Frame at the RICOH THETA MeetUp in San Francisco in September of 2016. This readme is a copy of a short blog post that I wrote to help the parcipants load their own 360 images into a web site using A-Frame. There is a sample video that works on desktop, but doesn't work reliably on mobile phones yet. This is probably going to improve within months.
 
 The future of virtual reality and augmented reality is [WebVR](http://venturebeat.com/2016/09/17/how-webvr-will-make-virtual-reality-massively-available/).
 It's open source JavaScript, works with browsers and mobile phones today.
